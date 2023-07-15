@@ -1,0 +1,7 @@
+
+---------------MENU PRINCIPAL---------------
+----- 0 -- CONSULTA DISPONIBIBILIDAD -------
+----- 1 -- PRESTAMO DE LIBRO ---------------
+----- 2 -- GESTION DEL CLIENTE -------------
+----- 3 -- GESTION DE LIBROS ---------------
+----- 4 ------ SALIR -----------------------

@@ -1,0 +1,7 @@
+
+--------SUB-MENU GESTION DEL CLIENTE-------
+----- A -- ALTA DE CLIENTE ----------------
+----- C -- CONSULTAR ESTADO ---------------
+----- M -- MODIFICAR DATOS ----------------
+----- E -- ELIMINAR CLIENTE ---------------
+----- R -- VOLVER AL MENU PRINCIPAL -------

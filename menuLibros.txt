@@ -1,0 +1,7 @@
+
+---------SUB-MENU GESTION DE LIBRO-------------
+------ A -- ALTA DE LIBRO ---------------------
+------ C -- CONSULTAR ESTADO ------------------
+------ M -- MODIFICAR DATOS -------------------
+------ E -- ELIMINAR LIBRO --------------------
+------ R -- VOLVER AL MENU PRINCIPAL ----------

@@ -1,0 +1,6 @@
+
+---------SUB-MENU PRESTAMO DE LIBRO-----------
+----- A -- CONSULTAR LIBROS DISPONIBLES ------
+----- B -- REGISTRAR PRESTAMO ----------------
+----- C -- REGISTRAR DEVOLUCION --------------
+----- D -- VOLVER AL MENU PRINCIPAL ----------
